@@ -104,7 +104,9 @@ html,body{
   font-family: WorkSansRegular;
   line-height: 2vmax;
 }
-
+.main .box ul li button:hover{
+  color: #AD28EB;
+}
 
 
  /* Desktop  */
